@@ -1,0 +1,367 @@
+@media (max-width: 769px){
+    .welcome-details {
+        margin-top: 20px !important;
+    }
+    .welcome-img img {
+        height: 380px !important;
+    }
+    .hexa-part{
+        width: 50% !important;
+    }
+    .offer-details i {
+        left: 17% !important;
+    }
+    .price-rate h2 {
+        font-size: 20px !important;
+    }
+    .price-rate h6 {
+        font-size: 14px !important;
+    }
+    .purchese-details li {
+        margin-left: 10px !important;
+    }
+    .purchese-head {
+        width: 40% !important;
+    }
+    .purchese-head h2 {
+        font-size: 25px !important;
+    }
+    .purchese-details {
+        width: 60% !important;
+    }
+    .purchese_btn {
+        font-size: 13px !important;
+        width: 150px !important;
+        height: 40px !important;
+    }
+    .team-image img {
+        height: 200px !important;
+    }
+    .social-site {
+        margin-top: 20px !important;
+    }
+    .contact-details {
+        margin-top: 20px !important;
+    }
+    .icon-bg {
+        width: 95px !important;
+        height: 95px !important;
+    }
+    .social-title p {
+        font-size: 16px !important;
+    }
+    .footer-stream ul li {
+        padding: 7px 12px !important;
+        margin-left: 5px !important;
+    }
+    .footer-stream ul li:hover {
+        padding: 7px 12px !important;
+    }
+    .footer-stream ul li i {
+        font-size: 20px !important;
+    }
+    .copyright-section {
+        padding: 15px 0 !important;
+    }
+    .copyright-head p {
+        font-size: 14px !important;
+    }
+    .copyright-head{
+        width: 30% !important;
+        padding: 0;
+    }
+    .footer-navpart{
+        width: 60% !important;
+    }
+    .nav-link {
+        padding: 10px 5px;
+    }
+}
+@media (max-width: 415px){
+    .logo-background {
+        width: 80px !important;
+        height: 80px !important;
+        top: 20px !important;
+    }
+    .logo-background h5 {
+        font-size: 17px !important;
+    }
+    .header-contact ul li {
+        margin-left: 5px !important;
+        /* font-size: 16px !important; */
+    }
+    .text-start {
+        text-align: right !important;
+    }
+    .header-social ul {
+        margin-top: 15px !important;
+        margin-bottom: 0 !important;
+    }
+    .header-contact ul {
+        padding: 0px 0px !important;
+    }
+    .header-social ul li i {
+        font-size: 20px !important;
+    }
+    .header-contact ul li {
+        font-size: 16px !important;
+    }
+    .welcome-details {
+        margin-top: 5px !important;
+    }
+    .welcome-details p {
+        margin-top: 20px !important;
+    }
+    .welcome-img img {
+        height: 350px !important;
+    }
+    .offer-details i {
+        top: 7% !important;
+        left: 14% !important;
+    }
+    .column {
+        float: left;
+        width: 50% !important;
+    }
+    .prices-section{
+        display: none;
+    }
+    .purchese-section {
+        text-align: center !important;
+    }
+    .purchese-details ul {
+        padding: 0;
+    }
+    .purchese_btn {
+        width: 140px !important;
+        height: 40px !important;
+    }
+    .team-image img {
+        margin-top: 10px !important;
+    }
+    .social-site {
+        margin-top: 5px !important;
+    }
+    .social{
+        width: 30% !important;
+    }
+    .social-title{
+        width: 70% !important;
+    }
+    .client-comments {
+        margin-top: 50px !important;
+    }
+    .footer-details p {
+        margin-top: 20px !important;
+    }
+    .footer-post{
+        margin-top: 30px !important;
+    }
+    .footer-post ul {
+        margin-top: 20px !important;
+    }
+    .footer-stream ul {
+        margin-top: 20px !important;
+    }
+    .copyright-section {
+        text-align: center !important;
+        padding: 15px 0 !important;
+    }
+    .nav-link {
+        padding: 10px 5px !important;
+    }
+}
+@media (max-width: 376px){
+    .logo-background {
+        width: 80px !important;
+        height: 80px !important;
+        top: 30px !important;
+    }
+    .logo-background h5 {
+        font-size: 17px !important;
+    }
+    .header-contact ul li {
+        margin-left: 5px !important;
+        /* font-size: 16px !important; */
+    }
+    .text-start {
+        text-align: right !important;
+    }
+    .header-social ul {
+        margin-top: 15px !important;
+        margin-bottom: 0 !important;
+    }
+    .header-contact ul {
+        padding: 0px 0px !important;
+    }
+    .header-social ul li i {
+        font-size: 20px !important;
+    }
+    .welcome-details {
+        margin-top: 15px !important;
+    }
+    .welcome-img img {
+        height: 250px !important;
+    }
+    .offer-details i {
+        top: 5% !important;
+        left: 15% !important;
+    }
+    .content img {
+        height: 160px !important;
+    }
+    .column {
+        width: 50% !important;
+    }
+    .purchese_btn {
+        font-weight: 600 !important;
+        width: 120px !important;
+        height: 35px !important;
+        font-size: 12px !important;
+    }
+    .purchese-content{
+        text-align: center !important;
+    }
+    .purchese-details li {
+        margin-right: 15px !important;
+        margin-left: 0 !important;
+    }
+    .team-image img {
+        height: 280px !important;
+        margin-top: 10px !important;
+    }
+    .social{
+        width: 30% !important;
+    }
+    .social-title {
+        width: 70% !important;
+    }
+    .client-comments {
+       margin-top: 50px !important;
+    }
+    .footer-details p {
+        margin-top: 25px !important;
+    }
+    .footer-post {
+        margin-top: 50px !important;
+    }
+    .footer-post ul {
+        margin-top: 25px !important;
+    }
+    .footer-stream {
+        margin-top: 50px !important;
+    }
+    .footer-stream ul {
+        margin-top: 25px !important;
+    }
+    .footer-content{
+        text-align: center !important;
+    }
+    .footer-nav {
+        justify-content: center !important;
+    }
+    .nav-link {
+        padding: 10px 5px !important;
+        font-size: 15px !important;
+    }
+    .prices-section{
+        display: none !important;
+    }
+}
+@media (max-width: 361px){
+    .logo-background {
+        width: 80px !important;
+        height: 80px !important;
+        top: 30px !important;
+    }
+    .logo-background h5 {
+        font-size: 17px !important;
+    }
+    .header-contact ul li {
+        margin-left: 5px !important;
+        /* font-size: 16px !important; */
+    }
+    .text-start {
+        text-align: right !important;
+    }
+    .header-social ul {
+        margin-top: 15px !important;
+        margin-bottom: 0 !important;
+    }
+    .header-contact ul {
+        padding: 0px 0px !important;
+    }
+    .header-social ul li i {
+        font-size: 20px !important;
+    }
+    .welcome-details {
+        margin-top: 15px !important;
+    }
+    .welcome-img img {
+        height: 250px !important;
+    }
+    .offer-details i {
+        top: 5% !important;
+        left: 15% !important;
+    }
+    .content img {
+        height: 160px !important;
+    }
+    .column {
+        width: 50% !important;
+    }
+    .purchese_btn {
+        font-weight: 600 !important;
+        width: 120px !important;
+        height: 35px !important;
+        font-size: 12px !important;
+    }
+    .purchese-content{
+        text-align: center !important;
+    }
+    .purchese-details li {
+        margin-right: 15px !important;
+        margin-left: 0 !important;
+    }
+    .team-image img {
+        height: 280px !important;
+        margin-top: 10px !important;
+    }
+    .social{
+        width: 30% !important;
+    }
+    .social-title {
+        width: 70% !important;
+    }
+    .client-comments {
+       margin-top: 50px !important;
+    }
+    .footer-details p {
+        margin-top: 25px !important;
+    }
+    .footer-post {
+        margin-top: 50px !important;
+    }
+    .footer-post ul {
+        margin-top: 25px !important;
+    }
+    .footer-stream {
+        margin-top: 50px !important;
+    }
+    .footer-stream ul {
+        margin-top: 25px !important;
+    }
+    .footer-content{
+        text-align: center !important;
+    }
+    .footer-nav {
+        justify-content: center !important;
+    }
+    .nav-link {
+        padding: 10px 5px !important;
+        font-size: 15px !important;
+    }
+    .prices-section{
+        display: none !important;
+    }
+}
